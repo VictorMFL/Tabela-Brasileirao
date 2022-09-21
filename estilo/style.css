@@ -145,17 +145,17 @@ div{
     margin-top: 0px;
 }
 
-#obs:nth-child(6){
+.obs:nth-child(6){
     background-color: white;
 }
-#obs:nth-child(8){
+.obs:nth-child(8){
     background-color: white;
 }
-#obs:nth-child(10){
+.obs:nth-child(10){
     background-color: white;
 }
 
-#obs{
+.obs{
     padding: 10px;
     font-size: 0.8em;
     border: none;
@@ -198,5 +198,5 @@ nav.subiu{
 
 nav.desceu{
     color: red;
-    
+
 }
