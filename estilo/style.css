@@ -187,3 +187,13 @@ article.pre{
 article.man{
     background-color: gray;
 }
+
+nav.subiu{
+    color: green;
+    display: inline-block;
+}
+
+nav.desceu{
+    color: red;
+    display: inline-block;
+}
